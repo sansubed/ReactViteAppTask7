@@ -1,0 +1,15 @@
+.footer {
+  /* background: linear-gradient(#cae193, #445f01); */
+  background-color: #2d853f;
+  color: white;
+  line-height: 1;
+  height: 3rem;
+  width: 100vw;
+  padding-top: 10px;
+  padding-left: 10px;
+  position: relative;
+  top: 0;
+  left: 0;
+  font-family: "Fasthand", cursive;
+  font-family: "Headland One", serif;
+}

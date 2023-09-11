@@ -5,7 +5,8 @@ function Header() {
     <div>
       <div>
         <div className={styles.header}>
-          <h1>Food Recipes</h1>
+          <h1>Dessert</h1>
+          <h2>Paradise</h2>
         </div>
         <img
           className={styles.figure}

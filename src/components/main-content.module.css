@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fasthand&family=Headland+One&display=swap");
+
+.main {
+  background-color: rgb(242, 248, 243);
+  height: calc(100vh - 4.25rem - 3rem);
+  width: 100wh;
+  display: flex;
+  padding: 10px;
+}
+
+.image {
+  width: 800px;
+  height: 600px;
+  padding-right: 10px;
+}
+
+.textBlock {
+  position: absolute;
+  height: 200px;
+  width: 500px;
+  top: 60%;
+  left: 15%;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Dancing Script", cursive;
+  font-family: "Fasthand", cursive;
+  font-family: "Headland One", serif;
+}
+a {
+  color: #a8c760;
+}
+a:hover {
+  color: #506053;
+}
+h2 {
+  padding-left: 20px;
+}
+
+.column1 {
+  padding: 5px;
+  height: 23rem;
+  width: 20rem;
+  background-color: #2d853f;
+  color: white;
+  font-family: "Headland One", serif;
+  font-size: large;
+}

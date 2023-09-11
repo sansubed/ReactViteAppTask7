@@ -1,19 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&family=Headland+One&display=swap");
 .header {
-  background: linear-gradient(#fdfbfb, #9198e5);
-  color: black;
+  background-color: #2d853f;
+  color: white;
   line-height: 1;
-  height: 3rem;
+  height: 4rem;
   width: 100vw;
   padding-top: 10px;
   padding-left: 100px;
   position: relative;
   top: 0;
   left: 0;
+  font-family: "Fasthand", cursive;
+  font-family: "Headland One", serif;
 }
 
 .figure {
   padding: 10px;
-  height: 4rem;
+  height: 5rem;
   position: absolute;
   top: -10px;
   left: -10px;
